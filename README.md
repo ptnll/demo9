@@ -10,3 +10,6 @@
 ![Home Screen](./screenshots/pct1.png)
 ![Cart Screen](./screenshots/pct2.png)
 ![Profile Screen](./screenshots/pct3.png)
+![Login Screen](./screenshots/pct4.png)
+![Home Screen](./screenshots/pct5.png)
+![Search Screen](./screenshots/pct6.png)
